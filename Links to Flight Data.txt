@@ -1,0 +1,6 @@
+airports = https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
+                       
+airlines = https://raw.githubusercontent.com/jpatokal/openflights/master/data/airlines.dat
+                       
+routes = https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat
+                     
